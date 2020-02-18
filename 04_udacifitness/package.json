@@ -4,7 +4,7 @@
   "private": true,
   "devDependencies": {
     "babel-eslint": "7",
-    "eslint": "3.x",
+    "eslint": "4.x",
     "eslint-plugin-react": "^7.5.1",
     "jest-expo": "23.0.0",
     "react-native-scripts": "1.8.0",
